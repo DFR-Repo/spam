@@ -1,0 +1,12 @@
+{
+  "name": "minecraft-multibot",
+  "version": "1.0.0",
+  "description": "Multiple Minecraft bots using mineflayer",
+  "main": "multi.js",
+  "scripts": {
+    "start": "node multi.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.9.1"
+  }
+}
