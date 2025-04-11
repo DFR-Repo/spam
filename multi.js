@@ -1,8 +1,8 @@
 const mineflayer = require('mineflayer');
 
-const SERVER_HOST = 'DreamskySr.aternos.me';
-const SERVER_PORT = 13978;
-const BOT_COUNT = 20; // عدد البوتات
+const SERVER_HOST = 'empmc.xyz';
+const SERVER_PORT = 19132;
+const BOT_COUNT = 500; // عدد البوتات
 
 function createBot(index) {
   const username = `Bot_${Math.floor(Math.random() * 10000)}_${index}`;
